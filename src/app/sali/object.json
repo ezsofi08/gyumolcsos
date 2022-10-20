@@ -1,0 +1,36 @@
+[   {
+    "id":1,
+    "name":"pizza",
+    "member_id":1
+},
+
+{
+    "id":2,
+    "name":"smink",
+    "member_id":5
+},
+
+{
+    "id":3,
+    "name":"tepsi",
+    "member_id":2
+},
+
+{
+    "id":4,
+    "name":"telefon",
+    "member_id":2
+},
+
+{
+    "id":5,
+    "name":"kocsi",
+    "member_id":4
+},
+
+{
+    "id":6,
+    "name":"pénz",
+    "member_id":3
+}
+]
